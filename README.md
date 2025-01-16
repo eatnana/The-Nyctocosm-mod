@@ -62,3 +62,7 @@ Languages:
 -简体中文
 -English
 -français
+
+# 授权图片:
+Authorized image:
+![1000178173](https://github.com/user-attachments/assets/67841fe9-44b6-43d9-b1e4-7ff07838f16f)
