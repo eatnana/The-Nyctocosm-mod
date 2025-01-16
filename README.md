@@ -65,4 +65,4 @@ Languages:
 
 # 授权图片:
 Authorized image:
-![1000178173](https://github.com/user-attachments/assets/67841fe9-44b6-43d9-b1e4-7ff07838f16f)
+![1000178376](https://github.com/user-attachments/assets/dcd71ab8-e8f0-4eb4-a440-b218a782ec18)
