@@ -1,5 +1,4 @@
 # The-Nyctocosm-mod
-Okay, here's the translation of the provided text into English:
 
 This mod is a conversion of the "The Nyctocosm" datapack, originally created by Flubberschnub, with additional language translations. This mod has been authorized by the original author. Mod version created by: eatnana.
 
